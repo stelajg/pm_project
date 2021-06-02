@@ -2,8 +2,6 @@ import os
 import serial
 
 
-print("Press 'i' for sending data")
-print("Press 'q' to quit")
 port = input("port: ")
 baud = 9600
 
